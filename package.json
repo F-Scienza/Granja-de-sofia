@@ -1,0 +1,25 @@
+{
+  "name": "granja-de-sofia",
+  "version": "1.0.0",
+  "description": "aplicacion hecha con html css js ",
+  "main": "villa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/F-Scienza/Granja-de-sofia.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "f-scienza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/F-Scienza/Granja-de-sofia/issues"
+  },
+  "homepage": "https://github.com/F-Scienza/Granja-de-sofia#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
