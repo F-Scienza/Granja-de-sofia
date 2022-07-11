@@ -3,11 +3,9 @@
 	"name": "granja-de-sofia",
 	"version": "1.0.0",
 	"description": "aplicacion hecha con html css js ",
-	"main": "villa.js",
+	"main": "index.html",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1",
-		"predeploy": "npm run build",
-		"deploy": "gh-pages -d build"
+		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"repository": {
 		"type": "git",
@@ -20,8 +18,5 @@
 	"license": "ISC",
 	"bugs": {
 		"url": "https://github.com/F-Scienza/Granja-de-sofia/issues"
-	},
-	"dependencies": {
-		"gh-pages": "^4.0.0"
 	}
 }
